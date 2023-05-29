@@ -1,1 +1,1 @@
-My first readme
+It is hard but we learn
